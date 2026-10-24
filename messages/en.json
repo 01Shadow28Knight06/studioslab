@@ -1,0 +1,16 @@
+{
+  "Navbar": {
+    "services": "Services",
+    "booking": "Booking",
+    "faq": "FAQ",
+    "cta": "Book Session"
+  },
+  "Hero": {
+    "badge": "Global Academic & Tech Mentorship",
+    "title": "Project development and mentorship with",
+    "titleHighlight": "guaranteed results.",
+    "description": "Expert help in programming, software architecture, and university technical subjects. No fluff, structured deliveries, and step-by-step support.",
+    "ctaPricing": "View Pricing & Services",
+    "ctaBooking": "Book Direct Session"
+  }
+}

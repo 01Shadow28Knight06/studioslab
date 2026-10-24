@@ -1,0 +1,16 @@
+{
+  "Navbar": {
+    "services": "Servicios",
+    "booking": "Agenda",
+    "faq": "FAQ",
+    "cta": "Agendar Sesión"
+  },
+  "Hero": {
+    "badge": "Global Academic & Tech Mentorship",
+    "title": "Desarrollo de proyectos y mentorías con",
+    "titleHighlight": "resultados garantizados.",
+    "description": "Ayuda experta en programación, arquitectura de software y materias técnicas universitarias. Sin rodeos, con entregas estructuradas y soporte paso a paso.",
+    "ctaPricing": "Ver Precios y Servicios",
+    "ctaBooking": "Agendar Sesión Directa"
+  }
+}
